@@ -1,0 +1,8 @@
+.flex-container{
+	width: 100%;
+	max-width: 960px;
+}
+
+.flex-direction-nav a {background: url(bg_direction_nav.png);}
+
+.flex-control-nav a {background: url(bg_control_nav.png);}
